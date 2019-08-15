@@ -13,7 +13,7 @@ elsif phrase == phrase.downcase
 return "HUH?! SPEAK UP, SONNY!"
 else phrase == phrase.upcase
   return "HUH?! SPEAK UP, SONNY!"
-  elsif phrase == "NO NOT SINCE 1938!"
+  elsif phrase == phrase.upcase
 # NO, NOT SINCE 1938!
 end
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
