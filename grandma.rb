@@ -14,6 +14,7 @@ return "HUH?! SPEAK UP, SONNY!"
 else phrase == phrase.upcase
   return "HUH?! SPEAK UP, SONNY!"
   elsif phrase == phrase.upcase
+  return ""
 # NO, NOT SINCE 1938!
 end
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
