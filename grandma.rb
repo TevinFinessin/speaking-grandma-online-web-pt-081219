@@ -12,7 +12,7 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase == phrase.downcase
 return "HUH? SPEAK UP, SONNY!"
 else phrase == phrase.upcase
-  return 
+  return "HUH? SPEAK UP, SONNY!"
 # NO, NOT SINCE 1938!
 end
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
