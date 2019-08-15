@@ -10,7 +10,7 @@ if phrase == "I LOVE YOU TOO GRANDMA!"
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
 elsif phrase == phrase.downcase
-return "NO, NOT SINCE 1938!"
+return "HUH? SPEAK UP, SONNY"
 # NO, NOT SINCE 1938!
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
