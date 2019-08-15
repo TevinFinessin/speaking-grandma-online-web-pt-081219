@@ -5,7 +5,7 @@ def speak_to_grandma(phrase)
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-if phrase == "I LOVE YOU TOO GRANDMA!"
+if phrase == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TO PUMPKIN!"
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
