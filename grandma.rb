@@ -11,7 +11,7 @@ if phrase == "I LOVE YOU GRANDMA!"
 # and yells back
 elsif phrase == phrase.downcase
 return "HUH? SPEAK UP, SONNY!"
-else phrase == phrase.downcase
+else phrase == phrase.upcase
   return "HUH? SPEAK UP, SONNY!"
 # NO, NOT SINCE 1938!
 end
