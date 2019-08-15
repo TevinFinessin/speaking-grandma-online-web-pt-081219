@@ -14,7 +14,7 @@ return "HUH?! SPEAK UP, SONNY!"
 elsif phrase == phrase.downcase
   return "HUH?! SPEAK UP, SONNY!"
   elsif phrase == phrase.upcase
-  return "HUH?! SPEAK UP, SONNY!"
+  return 
 else
   return "NO, NOT SINCE 1938!"
 # NO, NOT SINCE 1938!
