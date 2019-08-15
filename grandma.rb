@@ -3,6 +3,7 @@ def speak_to_grandma(phrase)
 
 
 # Whatever you say to grandma, she should respond with
+if phrase = "I LOVE YOU GRANDMA!"
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
